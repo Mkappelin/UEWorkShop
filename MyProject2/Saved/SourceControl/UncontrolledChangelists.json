@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/marco/OneDrive/Dokument/Unreal Projects/MyProject2/Content/PleaseWork.umap",
+				"C:/Users/marco/OneDrive/Dokument/Unreal Projects/MyProject2/Content/BP_MyCharacter.uasset"
+			]
+		}
+	]
+}
