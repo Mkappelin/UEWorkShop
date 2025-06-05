@@ -1,12 +1,12 @@
-"C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\UnrealEditor\Inc\MyProject2\UHT\MyCharacter.gen.cpp"
-/FI"C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Definitions.MyProject2.h"
-/Yu"C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyCharacter.gen.cpp.lc.obj"
-/experimental:log "C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyCharacter.gen.cpp.sarif"
-/sourceDependencies"C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyCharacter.gen.cpp.dep.lc.json"
-@"C:\Users\marco\OneDrive\Dokument\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.Shared.rsp"
+"C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\UnrealEditor\Inc\MyProject2\UHT\MyCharacter.gen.cpp"
+/FI"C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Definitions.MyProject2.h"
+/Yu"C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyCharacter.gen.cpp.lc.obj"
+/experimental:log "C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyCharacter.gen.cpp.sarif"
+/sourceDependencies"C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyCharacter.gen.cpp.dep.lc.json"
+@"C:\Users\marco\OneDrive\Dokument\GitHub\UEWorkShop\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
